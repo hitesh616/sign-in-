@@ -1,4 +1,4 @@
-from flask import Flask, render_templatec
+from flask import Flask,xas render_templatec
 
 app = Flask(__name__, template_folder='template')
 
